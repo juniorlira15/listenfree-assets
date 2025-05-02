@@ -1,0 +1,131 @@
+{
+  "albuns": {
+    "album_wesley": {
+      "titulo": "O Melhor de Wesley",
+      "artista": "Wesley Safadão",
+      "capaUrl": "https://raw.githubusercontent.com/juniorlira15/listenfree-assets/main/capas/album_wesley.jpg",
+      "musicas": {
+        "01": {
+          "titulo": "Seis Cordas",
+          "arquivoUrl": "https://raw.githubusercontent.com/juniorlira15/listenfree-assets/main/musicas/album_wesley_01_seis_cordas.mp3",
+          "duracao": 0
+        },
+        "02": {
+          "titulo": "Rei das Vaquejadas",
+          "arquivoUrl": "https://raw.githubusercontent.com/juniorlira15/listenfree-assets/main/musicas/album_wesley_02_rei_das_vaquejadas.mp3",
+          "duracao": 0
+        },
+        "03": {
+          "titulo": "Sede de Te Amar",
+          "arquivoUrl": "https://raw.githubusercontent.com/juniorlira15/listenfree-assets/main/musicas/album_wesley_03_sede_de_te_amar.mp3",
+          "duracao": 0
+        },
+        "04": {
+          "titulo": "Surra de Amor",
+          "arquivoUrl": "https://raw.githubusercontent.com/juniorlira15/listenfree-assets/main/musicas/album_wesley_04_surra_de_amor.mp3",
+          "duracao": 0
+        },
+        "05": {
+          "titulo": "Rainha do Vaqueiro",
+          "arquivoUrl": "https://raw.githubusercontent.com/juniorlira15/listenfree-assets/main/musicas/album_wesley_05_rainha_do_vaqueiro.mp3",
+          "duracao": 0
+        },
+        "06": {
+          "titulo": "Fome de Amor",
+          "arquivoUrl": "https://raw.githubusercontent.com/juniorlira15/listenfree-assets/main/musicas/album_wesley_06_fome_de_amor.mp3",
+          "duracao": 0
+        },
+        "07": {
+          "titulo": "Meio Dia",
+          "arquivoUrl": "https://raw.githubusercontent.com/juniorlira15/listenfree-assets/main/musicas/album_wesley_07_meio_dia.mp3",
+          "duracao": 0
+        },
+        "08": {
+          "titulo": "Quatro Semanas",
+          "arquivoUrl": "https://raw.githubusercontent.com/juniorlira15/listenfree-assets/main/musicas/album_wesley_08_quatro_semanas.mp3",
+          "duracao": 0
+        },
+        "09": {
+          "titulo": "Estrela da Manhã",
+          "arquivoUrl": "https://raw.githubusercontent.com/juniorlira15/listenfree-assets/main/musicas/album_wesley_09_estrela_da_manha.mp3",
+          "duracao": 0
+        },
+        "10": {
+          "titulo": "Pra Recomeçar",
+          "arquivoUrl": "https://raw.githubusercontent.com/juniorlira15/listenfree-assets/main/musicas/album_wesley_10_pra_recomecar.mp3",
+          "duracao": 0
+        },
+        "11": {
+          "titulo": "Perguntas sem Resposta",
+          "arquivoUrl": "https://raw.githubusercontent.com/juniorlira15/listenfree-assets/main/musicas/album_wesley_11_perguntas_sem_resposta.mp3",
+          "duracao": 0
+        },
+        "12": {
+          "titulo": "Rei do Baralho",
+          "arquivoUrl": "https://raw.githubusercontent.com/juniorlira15/listenfree-assets/main/musicas/album_wesley_12_rei_do_baralho.mp3",
+          "duracao": 0
+        },
+        "13": {
+          "titulo": "Ponta de Faca",
+          "arquivoUrl": "https://raw.githubusercontent.com/juniorlira15/listenfree-assets/main/musicas/album_wesley_13_ponta_de_faca.mp3",
+          "duracao": 0
+        },
+        "14": {
+          "titulo": "Você Pode Me Perder",
+          "arquivoUrl": "https://raw.githubusercontent.com/juniorlira15/listenfree-assets/main/musicas/album_wesley_14_voce_pode_me_perder.mp3",
+          "duracao": 0
+        },
+        "15": {
+          "titulo": "Manda Boi",
+          "arquivoUrl": "https://raw.githubusercontent.com/juniorlira15/listenfree-assets/main/musicas/album_wesley_15_manda_boi.mp3",
+          "duracao": 0
+        },
+        "16": {
+          "titulo": "DNA do Interior",
+          "arquivoUrl": "https://raw.githubusercontent.com/juniorlira15/listenfree-assets/main/musicas/album_wesley_16_dna_do_interior.mp3",
+          "duracao": 0
+        },
+        "17": {
+          "titulo": "Longe de Você",
+          "arquivoUrl": "https://raw.githubusercontent.com/juniorlira15/listenfree-assets/main/musicas/album_wesley_17_longe_de_voce.mp3",
+          "duracao": 0
+        },
+        "18": {
+          "titulo": "Bota Pegado Párea",
+          "arquivoUrl": "https://raw.githubusercontent.com/juniorlira15/listenfree-assets/main/musicas/album_wesley_18_bota_pegado_parea.mp3",
+          "duracao": 0
+        },
+        "19": {
+          "titulo": "Confidência",
+          "arquivoUrl": "https://raw.githubusercontent.com/juniorlira15/listenfree-assets/main/musicas/album_wesley_19_confidencia.mp3",
+          "duracao": 0
+        },
+        "20": {
+          "titulo": "Tô Bebendo, Tô Pagando",
+          "arquivoUrl": "https://raw.githubusercontent.com/juniorlira15/listenfree-assets/main/musicas/album_wesley_20_to_bebendo_to_pagando.mp3",
+          "duracao": 0
+        },
+        "21": {
+          "titulo": "Seu Olhar Não Mente",
+          "arquivoUrl": "https://raw.githubusercontent.com/juniorlira15/listenfree-assets/main/musicas/album_wesley_21_seu_olhar_nao_mente.mp3",
+          "duracao": 0
+        },
+        "22": {
+          "titulo": "Onde Canta o Sabiá",
+          "arquivoUrl": "https://raw.githubusercontent.com/juniorlira15/listenfree-assets/main/musicas/album_wesley_22_onde_canta_o_sabia.mp3",
+          "duracao": 0
+        },
+        "23": {
+          "titulo": "Onde o Sonho Mora",
+          "arquivoUrl": "https://raw.githubusercontent.com/juniorlira15/listenfree-assets/main/musicas/album_wesley_23_onde_o_sonho_mora.mp3",
+          "duracao": 0
+        },
+        "24": {
+          "titulo": "Foi Você",
+          "arquivoUrl": "https://raw.githubusercontent.com/juniorlira15/listenfree-assets/main/musicas/album_wesley_24_foi_voce.mp3",
+          "duracao": 0
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "titulo": "Best of Eminem",
+  "artista": "Eminem",
+  "ano": 2024,
+  "capaUrl": "https://raw.githubusercontent.com/juniorlira15/listenfree-assets/main/capas/album_eminem.jpg",
+  "musicas": {
+    "01": {
+      "titulo": "Lose Yourself",
+      "arquivoUrl": "https://raw.githubusercontent.com/juniorlira15/listenfree-assets/main/musicas/01_album_eminem_Lose_YourSelf.mp3",
+      "duracao": 0
+    },
+    "02": {
+      "titulo": "Till I Collapse",
+      "arquivoUrl": "https://raw.githubusercontent.com/juniorlira15/listenfree-assets/main/musicas/02_album_eminem_Till_I_Collapse_Rap.mp3",
+      "duracao": 0
+    },
+    "03": {
+      "titulo": "Stan (feat. Dido)",
+      "arquivoUrl": "https://raw.githubusercontent.com/juniorlira15/listenfree-assets/main/musicas/03_album_eminem_&_Dido_Stan.mp3",
+      "duracao": 0
+    },
+    "04": {
+      "titulo": "Not Afraid",
+      "arquivoUrl": "https://raw.githubusercontent.com/juniorlira15/listenfree-assets/main/musicas/04_album_eminem_Not_Afraid.mp3",
+      "duracao": 0
+    },
+    "05": {
+      "titulo": "Cleanin' Out My Closet",
+      "arquivoUrl": "https://raw.githubusercontent.com/juniorlira15/listenfree-assets/main/musicas/05_album_eminem_C...Out_My_Closet_.mp3",
+      "duracao": 0
+    },
+    "06": {
+      "titulo": "Mockingbird",
+      "arquivoUrl": "https://raw.githubusercontent.com/juniorlira15/listenfree-assets/main/musicas/06_album_eminem_MockingGbird.mp3",
+      "duracao": 0
+    },
+    "07": {
+      "titulo": "Venom",
+      "arquivoUrl": "https://raw.githubusercontent.com/juniorlira15/listenfree-assets/main/musicas/07_album_eminem_Venom.mp3",
+      "duracao": 0
+    },
+    "08": {
+      "titulo": "Space Bound",
+      "arquivoUrl": "https://raw.githubusercontent.com/juniorlira15/listenfree-assets/main/musicas/08_album_eminem_SpaceBound.mp3",
+      "duracao": 0
+    },
+    "09": {
+      "titulo": "The Monster",
+      "arquivoUrl": "https://raw.githubusercontent.com/juniorlira15/listenfree-assets/main/musicas/09_album_eminem__na_The_MonSter.mp3",
+      "duracao": 0
+    },
+    "10": {
+      "titulo": "Without Me",
+      "arquivoUrl": "https://raw.githubusercontent.com/juniorlira15/listenfree-assets/main/musicas/10_album_eminem_Without_Me.mp3",
+      "duracao": 0
+    }
+  }
+}

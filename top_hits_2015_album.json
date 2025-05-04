@@ -1,0 +1,128 @@
+{
+    "titulo": "Top Hits 2015",
+    "artista": "Vários Artistas",
+    "ano": 2015,
+    "capaUrl": "https://raw.githubusercontent.com/juniorlira15/listenfree-assets/main/musicas/album_top_hits_2015.jpg",
+    "musicas": {
+        "track_1": {
+            "id": "track_1",
+            "titulo": "David Guetta Feat Sam Martin-Dangerous-1Ndd",
+            "arquivoUrl": "https://raw.githubusercontent.com/juniorlira15/listenfree-assets/main/musicas/101-david_guetta_feat_sam_martin-dangerous-1ndd.mp3",
+            "duracao": 0
+        },
+        "track_2": {
+            "id": "track_2",
+            "titulo": "Soprano Feat Uncle Phil-Fresh Prince-1Ndd",
+            "arquivoUrl": "https://raw.githubusercontent.com/juniorlira15/listenfree-assets/main/musicas/102-soprano_feat_uncle_phil-fresh_prince-1ndd.mp3",
+            "duracao": 0
+        },
+        "track_3": {
+            "id": "track_3",
+            "titulo": "Timmy Trumpet-And-Savage-Freaks-1Ndd",
+            "arquivoUrl": "https://raw.githubusercontent.com/juniorlira15/listenfree-assets/main/musicas/103-timmy_trumpet-and-savage-freaks-1ndd.mp3",
+            "duracao": 0
+        },
+        "track_4": {
+            "id": "track_4",
+            "titulo": "Meghan Trainor-All About That Bass-1Ndd",
+            "arquivoUrl": "https://raw.githubusercontent.com/juniorlira15/listenfree-assets/main/musicas/104-meghan_trainor-all_about_that_bass-1ndd.mp3",
+            "duracao": 0
+        },
+        "track_5": {
+            "id": "track_5",
+            "titulo": "Sia-Big Girls Cry-1Ndd",
+            "arquivoUrl": "https://raw.githubusercontent.com/juniorlira15/listenfree-assets/main/musicas/105-sia-big_girls_cry-1ndd.mp3",
+            "duracao": 0
+        },
+        "track_6": {
+            "id": "track_6",
+            "titulo": "Nico And Vinz-In Your Arms (Dans Tes Bras)-1Ndd",
+            "arquivoUrl": "https://raw.githubusercontent.com/juniorlira15/listenfree-assets/main/musicas/106-nico_and_vinz-in_your_arms_(dans_tes_bras)-1ndd.mp3",
+            "duracao": 0
+        },
+        "track_7": {
+            "id": "track_7",
+            "titulo": "Maroon 5-Animals-1Ndd",
+            "arquivoUrl": "https://raw.githubusercontent.com/juniorlira15/listenfree-assets/main/musicas/107-maroon_5-animals-1ndd.mp3",
+            "duracao": 0
+        },
+        "track_8": {
+            "id": "track_8",
+            "titulo": "M Pokora-On Danse-1Ndd",
+            "arquivoUrl": "https://raw.githubusercontent.com/juniorlira15/listenfree-assets/main/musicas/108-m_pokora-on_danse-1ndd.mp3",
+            "duracao": 0
+        },
+        "track_9": {
+            "id": "track_9",
+            "titulo": "Ed Sheeran-Dont-1Ndd",
+            "arquivoUrl": "https://raw.githubusercontent.com/juniorlira15/listenfree-assets/main/musicas/109-ed_sheeran-dont-1ndd.mp3",
+            "duracao": 0
+        },
+        "track_10": {
+            "id": "track_10",
+            "titulo": "Shaniz Feat Maitre Gims-A Contre Sens (Original Mix)-1Ndd",
+            "arquivoUrl": "https://raw.githubusercontent.com/juniorlira15/listenfree-assets/main/musicas/110-shaniz_feat_maitre_gims-a_contre_sens_(original_mix)-1ndd.mp3",
+            "duracao": 0
+        },
+        "track_11": {
+            "id": "track_11",
+            "titulo": "Chawki Feat Dr Alban-Its My Life (Cest Ma Vie)-1Ndd",
+            "arquivoUrl": "https://raw.githubusercontent.com/juniorlira15/listenfree-assets/main/musicas/111-chawki_feat_dr_alban-its_my_life_(cest_ma_vie)-1ndd.mp3",
+            "duracao": 0
+        },
+        "track_12": {
+            "id": "track_12",
+            "titulo": "Rune Rk-Calabria (Firebeatz Remix Edit)-1Ndd",
+            "arquivoUrl": "https://raw.githubusercontent.com/juniorlira15/listenfree-assets/main/musicas/112-rune_rk-calabria_(firebeatz_remix_edit)-1ndd.mp3",
+            "duracao": 0
+        },
+        "track_13": {
+            "id": "track_13",
+            "titulo": "Keenv-Jme Bats Pour Toi-1Ndd",
+            "arquivoUrl": "https://raw.githubusercontent.com/juniorlira15/listenfree-assets/main/musicas/113-keenv-jme_bats_pour_toi-1ndd.mp3",
+            "duracao": 0
+        },
+        "track_14": {
+            "id": "track_14",
+            "titulo": "Papi Sanchez Feat Tony Latino And Pakito-Rumba-1Ndd",
+            "arquivoUrl": "https://raw.githubusercontent.com/juniorlira15/listenfree-assets/main/musicas/114-papi_sanchez_feat_tony_latino_and_pakito-rumba-1ndd.mp3",
+            "duracao": 0
+        },
+        "track_15": {
+            "id": "track_15",
+            "titulo": "Lost Frequencies-Are You With Me-1Ndd",
+            "arquivoUrl": "https://raw.githubusercontent.com/juniorlira15/listenfree-assets/main/musicas/115-lost_frequencies-are_you_with_me-1ndd.mp3",
+            "duracao": 0
+        },
+        "track_16": {
+            "id": "track_16",
+            "titulo": "Grand Corps Malade And John Mamann-15H Du Matin-1Ndd",
+            "arquivoUrl": "https://raw.githubusercontent.com/juniorlira15/listenfree-assets/main/musicas/116-grand_corps_malade_and_john_mamann-15h_du_matin-1ndd.mp3",
+            "duracao": 0
+        },
+        "track_17": {
+            "id": "track_17",
+            "titulo": "Lilly Wood And The Prick-Prayer In C (Robin Schulz Remix)-1Ndd",
+            "arquivoUrl": "https://raw.githubusercontent.com/juniorlira15/listenfree-assets/main/musicas/117-lilly_wood_and_the_prick-prayer_in_c_(robin_schulz_remix)-1ndd.mp3",
+            "duracao": 0
+        },
+        "track_18": {
+            "id": "track_18",
+            "titulo": "Robin Schulz Feat Jasmine Thompson-Sun Goes Down (Radio Mix)-1Ndd",
+            "arquivoUrl": "https://raw.githubusercontent.com/juniorlira15/listenfree-assets/main/musicas/118-robin_schulz_feat_jasmine_thompson-sun_goes_down_(radio_mix)-1ndd.mp3",
+            "duracao": 0
+        },
+        "track_19": {
+            "id": "track_19",
+            "titulo": "Pitbull Feat John Ryan-Fireball-1Ndd",
+            "arquivoUrl": "https://raw.githubusercontent.com/juniorlira15/listenfree-assets/main/musicas/119-pitbull_feat_john_ryan-fireball-1ndd.mp3",
+            "duracao": 0
+        },
+        "track_20": {
+            "id": "track_20",
+            "titulo": "Coldplay-True Love-1Ndd",
+            "arquivoUrl": "https://raw.githubusercontent.com/juniorlira15/listenfree-assets/main/musicas/120-coldplay-true_love-1ndd.mp3",
+            "duracao": 0
+        }
+    }
+}
